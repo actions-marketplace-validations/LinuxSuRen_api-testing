@@ -47,7 +47,7 @@ require (
 	github.com/evanphx/json-patch v0.5.2
 	github.com/gorilla/websocket v1.5.3
 	github.com/linuxsuren/http-downloader v0.0.99
-	golang.org/x/mod v0.28.0
+	golang.org/x/mod v0.30.0
 )
 
 require (
