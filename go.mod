@@ -24,7 +24,7 @@ require (
 	github.com/linuxsuren/go-fake-runtime v0.0.5
 	github.com/linuxsuren/go-service v0.0.2-0.20251117091849-c58edc8748d9
 	github.com/linuxsuren/unstructured v0.0.1
-	github.com/prometheus/client_golang v1.22.0
+	github.com/prometheus/client_golang v1.23.2
 	github.com/prometheus/common v0.67.2
 	github.com/signintech/gopdf v0.33.0
 	github.com/spf13/cobra v1.10.1
@@ -93,7 +93,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect
-	github.com/prometheus/procfs v0.15.1 // indirect
+	github.com/prometheus/procfs v0.16.1 // indirect
 	github.com/sergi/go-diff v1.3.1 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
